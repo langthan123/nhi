@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho Hai na <3',
     reply: 'Tất nhiên là phải đồng ý ròi',
     mess: 'Hai biết là Bé sẽ hông từ chối moà 🥰',
-    messDesc: 'Từ chỗ này mình sẽ đổi cách xưng hô chút nah. Anh muốn nói với Bé điều này từ lâu lắm rồi. "Bé hãy làm người yêu anh nhé", nếu đồng ý hãy trả lời cho Hai biết nhé, hoặc Bé có thể suy nghĩ thêm cũng được nà 😊',
+    messDesc: 'Từ chỗ này mình sẽ đổi cách xưng hô chút nah. Anh muốn nói với Bé điều này từ lâu lắm rồi. "Bé hãy làm người yêu anh nhé", nếu đồng ý hãy trả lời cho anh biết nhé, hoặc Bé có thể suy nghĩ thêm cũng được nà 😊',
     btnAccept: 'Okiiiii nun <3',
     messLink: 'https://www.facebook.com/messages/t/100015056085493/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
